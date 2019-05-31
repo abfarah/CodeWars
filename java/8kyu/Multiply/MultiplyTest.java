@@ -2,7 +2,7 @@
 
 By Abdullahi Farah
 
-Unit Tests for codewars vowel problem
+Unit Tests for codewars mutiply problem
 
 Dependencies: 
 		junit-4.10.jar
