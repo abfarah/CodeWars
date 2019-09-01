@@ -1,0 +1,10 @@
+
+.DS_Store
+
+*.class
+
+*.py[cod]
+
+*.swp
+
+*.jar
